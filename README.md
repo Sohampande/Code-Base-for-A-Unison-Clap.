@@ -3,6 +3,23 @@
 
 ---
 
+###  Run the Simulation Yourself
+
+If you want to try the unison clap experiment on your own machine, you can clone my GitHub repository and run the notebook or script.
+
+```bash
+git clone https://github.com/<your-username>/Audience-Clap-CLT.git
+cd Audience-Clap-CLT
+python unison_clap_simulation.py
+```
+
+Alternatively, if you're using the Jupyter notebook:
+
+```bash
+jupyter notebook "The Unison Clap.ipynb"
+```
+---
+
 ## Overview
 
 Have you ever noticed that during concerts, even when every audience member claps at slightly different times, it somehow sounds like **one big synchronized clap**?
@@ -78,12 +95,6 @@ This project uses standard scientific Python libraries:
 ```bash
 pip install numpy pandas matplotlib
 ```
-
-## How to Run
-
-Clone the repository and run the simulation script:
-
-```bash
 git clone https://github.com/<your-username>/Audience-Clap-CLT.git
 cd Audience-Clap-CLT
 python unison_clap_simulation.py
