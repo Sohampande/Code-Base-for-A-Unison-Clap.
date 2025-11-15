@@ -8,7 +8,7 @@
 If you want to try the unison clap experiment on your own machine, you can clone my GitHub repository and run the notebook or script.
 
 ```bash
-git clone https://github.com/<your-username>/Audience-Clap-CLT.git
+git clone https://github.com/<Sohampande>/Audience-Clap-CLT.git
 cd Audience-Clap-CLT
 python unison_clap_simulation.py
 ```
